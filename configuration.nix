@@ -51,7 +51,7 @@
   # Wi-fi corporate network set-up
   networking.wireless.networks = {
     "walCOR Seguros" = {         # SSID with spaces and/or special characters
-    pskRaw = "8800e2ad89df3154f75d1f2b7945588309b9ccde7b2761389f599f2f0674c489";
+    pskRaw = "";
     };
   };
 
